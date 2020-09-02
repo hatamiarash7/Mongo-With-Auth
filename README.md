@@ -4,7 +4,7 @@
 
 A Docker Image for MongoDB which makes it easy to create an Admin, a Database and a Database User when the container is first launched.
 
-It's an updated version of [docker-mongo-auth](https://github.com/aashreys/docker-mongo-auth). That's not updated anymore.
+It's an updated version of [docker-mongo-auth](https://github.com/aashreys/docker-mongo-auth). That's not maintain anymore.
 
 ## Customization
 
