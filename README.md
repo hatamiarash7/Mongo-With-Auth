@@ -1,5 +1,7 @@
 # Mongo with authentication
 
+[![GitHub license](https://img.shields.io/github/license/hatamiarash7/Mongo-With-Auth)](https://github.com/hatamiarash7/Mongo-With-Auth/blob/master/LICENSE) ![Github](https://github.com/hatamiarash7/Mongo-With-Auth/workflows/Github/badge.svg) ![Dockerhub](https://github.com/hatamiarash7/Mongo-With-Auth/workflows/Dockerhub/badge.svg) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/hatamiarash7/mongo-auth)
+
 A Docker Image for MongoDB which makes it easy to create an Admin, a Database and a Database User when the container is first launched.
 
 It's an updated version of [docker-mongo-auth](https://github.com/aashreys/docker-mongo-auth). That's not updated anymore.
