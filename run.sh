@@ -2,7 +2,7 @@
 set -m
 
 mongodb_cmd="mongod"
-cmd="$mongodb_cmd"
+cmd="$mongodb_cmd --bind_ip_all"
 
 if [ "$AUTH" == "yes" ]; then
     cmd="$cmd --auth"
