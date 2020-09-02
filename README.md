@@ -8,7 +8,7 @@ It's an updated version of [docker-mongo-auth](https://github.com/aashreys/docke
 
 ## Customization
 
-There are a number of environment variables which you can specify to customize the username and passwords of your users.
+There are multiple environment variables which you can specify to customize the username and passwords of your users.
 
 - With Dockerfile
 
