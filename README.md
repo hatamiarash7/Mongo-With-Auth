@@ -1,4 +1,4 @@
-# Mongo with authentication
+# MongoDB with authentication
 
 [![GitHub license](https://img.shields.io/github/license/hatamiarash7/Mongo-With-Auth)](https://github.com/hatamiarash7/Mongo-With-Auth/blob/master/LICENSE) ![Github](https://github.com/hatamiarash7/Mongo-With-Auth/workflows/Github/badge.svg) ![Dockerhub](https://github.com/hatamiarash7/Mongo-With-Auth/workflows/Dockerhub/badge.svg) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/hatamiarash7/mongo-auth)
 
