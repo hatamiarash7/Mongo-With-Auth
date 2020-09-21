@@ -1,4 +1,5 @@
 #!/bin/bash
+
 set -m
 
 mongodb_cmd="mongod"
